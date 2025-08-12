@@ -1,0 +1,5 @@
+{
+  "name": "RemoteNet Share",
+  "description": "A mobile app that allows one user to share their mobile internet connection with another user anywhere in the world, without using a Wi-Fi hotspot or physical proximity.",
+  "requestFramePermissions": []
+}
